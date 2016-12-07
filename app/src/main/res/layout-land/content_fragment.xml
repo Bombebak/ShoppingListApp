@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFDAFF7F"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/login_status"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/signup_welcome"
+        />
+
+
+
+    <Button
+        android:id="@+id/btnCustomAuthLogin"
+        android:text="@string/login_with_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:id="@+id/btnCustomAuthSignUp"
+        android:text="@string/register_new_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      />
+
+</LinearLayout >

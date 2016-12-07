@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_language">Sprog</string>
+  <string name="progress_msg_item_readded">Du har successfuldt tilføjet varen igen</string>
+  <string name="progress_msg_clearAll_succesfull">Du har succesfuldt tømt din liste</string>
+  <string name="warning_clearList">Du er ved at tømme din liste, er du sikker?</string>
+  <string name="btn_yes">Ja</string>
+  <string name="btn_no">Nej</string>
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="language_setting">Sprog</string>
+
+    <string name="lbl_register">Register</string>
+    <string name="lbl_login">Log in</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_password">Adgangskode</string>
+    <string name="lbl_name">Navn</string>
+    <string name="lbl_quantity">Antal</string>
+
+    <string name="btn_user_register">Register</string>
+    <string name="btn_user_login">Login</string>
+    <string name="btn_item_create">Tilføj</string>
+    <string name="btn_item_update">Opdater</string>
+    <string name="btn_item_edit">Ændre</string>
+    <string name="btn_item_delete">Slet</string>
+    <string name="btn_item_deleteAll">Ryd</string>
+    <string name="btn_item_select_all">Vælg alle</string>
+    <string name="btn_item_deselect_all">Fravælg alle</string>
+
+    <string name="validation_email_password_invalid">Enten er din email eller adgangskode forkert. Prøv igen.</string>
+    <string name="validation_email_empty">Du har glemt at indtaste en email.</string>
+    <string name="validation_user_exists">Den indtastede email er allerede i brug hos en anden bruger.</string>
+    <string name="validation_user_invalid">Der er ikke fundet nogen aktive brugere med den mail. Brugeren er enten slettet eller inaktiv.</string>
+    <string name="validation_pass">Du har glemt at indtaste en adgangskode.</string>
+    <string name="validation_product_name_empty">Du har glemt at indtaste et navn.</string>
+    <string name="validation_product_quantity_empty">Du har glemt at indtaste et antal.</string>
+
+    <string name="progress_msg_register">Din bruger er ved at blive lavet..</string>
+    <string name="progress_msg_logIn">Dine legimationsoplysninger er ved at blive valideret..</string>
+    <string name="progress_msg_addingItemToList">Varen er ved at blive tilføjet til din liste..</string>
+    <string name="progress_msg_RemovingItemFromList">Varen er vd at blive fjernet fra din liste..</string>
+    <string name="progress_msg_ClearItemsList">Din liste er ved at blive tømt..</string>
+
+    <string name="progress_msg_item_created_successfully">Du har successfuldt tilføjet en vare til listen</string>
+    <string name="progress_msg_item_updated_successfully">Du har successfuldt opdateret en vare fra listen</string>
+    <string name="progress_msg_item_deleted_successfully">Du har successfuldt fjernet varen(e) fra listen</string>
+
+    <string name="signup_welcome">Velkommen til vores login</string>
+    <string name="login_with_password">Log ind</string>
+    <string name="register_new_user">Register</string>
+    <string name="sign_out">Log ud</string>
+
+    <string-array name="lang_select_code">
+        <item>en</item>
+        <item>da</item>
+    </string-array>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Dansk</item>
+    </string-array>
+
+</resources>

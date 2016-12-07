@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.den_f.shoppinglistapp.MainActivity">
+
+
+    <item
+        android:id="@+id/btn_item_deleteAll"
+        android:orderInCategory="100"
+        android:title="@string/btn_item_deleteAll"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/btn_item_share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="@string/sign_out"
+        app:showAsAction="never"
+        android:visible="false"
+    />
+</menu>

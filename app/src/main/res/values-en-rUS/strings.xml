@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_language">Language</string>
+  <string name="progress_msg_item_readded">You have succesfully readded the item to your list</string>
+  <string name="progress_msg_clearAll_succesfull">You have succesfully cleared your entire list</string>
+  <string name="warning_clearList">You are about to clear your entire list, are you certain?</string>
+  <string name="btn_yes">Yes</string>
+  <string name="btn_no">No</string>
+</resources>
